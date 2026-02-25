@@ -1,0 +1,5 @@
+xxhash
+rich
+PyFs
+BUT-Core
+PySide6
